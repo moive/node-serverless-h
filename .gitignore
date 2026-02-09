@@ -1,0 +1,23 @@
+# Local Netlify folder
+.netlify
+node_modules/
+.env
+.env.*.local
+.DS_Store
+.vscode/
+npm-debug.log*
+yarn-error.log*
+lerna-debug.log*
+.pnp.*
+.pnp.json
+.cache/
+dist/
+build/
+coverage/
+.next/
+out/
+.nuxt/
+.idea/
+.sass-cache/
+.jspm-cache/
+bower_components/
